@@ -1,5 +1,7 @@
 # Dashboard
 
+THIS IS A WORK IN PROGRESS!!!
+
 This is an Elixir/Phoenix Web Application that monitors real-time tests. The tests from various test stations
 are publishing their current state to a message broker (NSQ) and this web apps subscribe to the NSQ channels.
 
